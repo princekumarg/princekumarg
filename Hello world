@@ -1,0 +1,6 @@
+// my first program
+#include<iostream>
+int main() {
+Std::cout<<"hello world!"<<std::endl;
+return0;
+}
