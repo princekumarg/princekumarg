@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int q;
+    cout <<"enter marks of student ";
+    cin>>q;
+    if(q<25){
+        cout<<"grade f";
+    }
+    else if(q>25 && q<45){
+        cout<<"grade e";
+    }
+    else if(q>45 && q<50){
+        cout<<"grade d";
+    }
+    else if(q>50 && q<65){
+        cout<<"grade c";
+    }
+    else if(q<65 && q<80){
+        cout<<"grade b";
+    }
+    else{
+        cout<<"grade a";
+    }
+}
