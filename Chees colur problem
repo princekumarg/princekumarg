@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int n;
+    cout<<"enter the cell number of chess";
+    cin>>n;
+    if(n==0){
+        cout<<"the first cell of chess is black";
+    }
+    else if(n%2==0){
+        cout<<"the cell of chess is black";
+    }
+    else{
+        cout<<"the cell of chess is white";
+    }
+    
+
+    return 0;
+}
