@@ -1,0 +1,23 @@
+//Armstrong number
+#include <iostream>
+using namespace std;
+int main() {
+    int n,alm=0,rem,temp;
+    cout<<"enter the number";
+    cin>>n;
+    temp=n;
+    while(n!=0){
+        rem=n%10;
+        alm=alm+rem*rem*rem;
+        n
+=n/10;
+    }
+    if(temp==alm){
+        cout<<"Armstrong number"<<alm;
+    }
+    else{
+        cout<<"not a Armstrong number"<<alm;
+    }
+    return 0;
+    
+}
