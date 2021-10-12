@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main() {
+    int a;
+    cout<<"enter the number";
+    cin>>a;
+    a=a>>2;
+   cout<<"answer"<<a;
+   return 0;
+}
