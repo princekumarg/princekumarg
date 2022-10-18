@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @princekumarg
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning python
-- 💞️ I like to collaborate on google
-- 🤣 I want make application on Android studio
-- 😴 I want be multi player 
+- 👋 Hi, I’m @prince kuamr agarwal
+- 👀 I’m interested in Programming language like c++,java,python
+- 🌱 i'm currently student
+- 💞️ I like fullstack,Android,Machinelearning
+ 
+
 
 <!---
 princekumarg/princekumarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
