@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @prince kuamr agarwal
+- 👋 Hi, I’m @prince kuamr agrawal
 - 👀 I’m interested in Programming language like c++,java,python
 - 🌱 i'm currently student
-- 💞️ I like fullstack,Android,Machinelearning
+- 💞️ I like Fullstack,Android,Machinelearning
+- 
  
 
 
