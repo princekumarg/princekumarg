@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3 align="left">About me</h3>
-<p>As a Data Science YouTuber with over 70K subscribers, I am passionate about teaching others how to master Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Data Analysis. With over 100 repositories on GitHub, I am committed to sharing my knowledge and experience in these areas. My repositories include a wide range of projects, from simple examples to complex applications, all designed to help learners of all levels. With over 1.8k followers on GitHub, I am constantly engaged with the community, sharing insights and responding to questions. If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories and YouTube channel.</p>
+<p>As a Computer science student.i am current learning DSA</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumarg&label=Profile%20views&color=0e75b6&style=flat" alt="princekumarg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
