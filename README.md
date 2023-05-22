@@ -4,7 +4,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h3 align="left">About me</h3>
-<p>As a Computer science student.i am current learning DSA</p>
+<p class="about__text"> &#8594; I am a self-taught front-end developer based in Bihar, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. <br>
+                            &#8594; Transforming my creativity and knowledge into a website has been my passion for over a year. I have developed various projects. I always strive to learn about the newest technologies and frameworks. <br>
+                            &#8594; I've hands-on experience in software development, mainly in MongoDB, ExpressJS, ReactJS, NodeJS stack(MERN stack), Bootstrap,and restAPI. <br>
+                            &#8594; I've intrest in Machine Learning Algorithm and Devops Tools,so i am very familer with Git&Github,Docker&Dockerhub,Kubernetes,Jenkins and for Machine Learning
+                            i have knowledge in sklearn,pandas,numpy,Tensorflow <br>.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumarg&label=Profile%20views&color=0e75b6&style=flat" alt="princekumarg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
