@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumarg&label=Profile%20views&color=0e75b6&style=flat" alt="princekumarg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Prince2182002_" target="blank"><img src="https://img.shields.io/twitter/follow/asdadsbc?logo=twitter&style=for-the-badge" alt="asdadsbc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Prince2182002_" target="blank"><img src="https://img.shields.io/twitter/follow/asdadsbc?logo=twitter&style=for-the-badge" alt="Prince" /></a> </p>
 
-- 🔭 I’m currently working on **galaxy apk**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **webdev,kiviy**
+- 🌱 I’m currently learning **React,MachineLearning**
 
-- 👨‍💻 All of my projects are available at [dasfyvre](dasfyvre)
+- 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)
 
 - 📝 I regularly write articles on [kasngyu](kasngyu)
 
