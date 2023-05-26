@@ -53,7 +53,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=princekumarg&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princekumarg&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekumarg&" alt="princekumarg" /></p>
