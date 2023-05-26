@@ -21,7 +21,8 @@
 <p class="about__text"> &#8594; I am a self-taught front-end developer based in Bihar, India. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. <br>
                             &#8594; Transforming my creativity and knowledge into a website has been my passion for over a year. I have developed various projects. I always strive to learn about the newest technologies and frameworks. <br>
                             &#8594; I've hands-on experience in software development, mainly in MongoDB, ExpressJS, ReactJS, NodeJS stack(MERN stack), Bootstrap,and restAPI. <br>
-                            &#8594; I've intrest in Machine Learning Algorithm and Devops Tools,so i am very familer with Git&Github,Docker&Dockerhub,Kubernetes,Jenkins and for Machine Learning
+                            &#8594; I've 
+interest in Machine Learning Algorithm and Devops Tools,so i am very familer with Git&Github,Docker&Dockerhub,Kubernetes,Jenkins and for Machine Learning
                             i have knowledge in sklearn,pandas,numpy,Tensorflow <br>.
 </p>
 <h3 align="left">CODING PROFILE:</h3>
