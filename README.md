@@ -49,7 +49,3 @@ interest in Machine Learning Algorithm and Devops Tools,so i am very familer wit
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=princekumarg&show_icons=true&theme=dark&locale=en" alt="princekumarg" /></p>
 
 <p><img align="center" &th src="https://github-readme-streak-stats.herokuapp.com/?user=princekumarg&theme=dark" alt="princekumarg" /></p>
-[alias]
-lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)' --all
-lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
-lg = lg1
