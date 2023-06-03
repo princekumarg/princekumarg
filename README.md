@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React,MachineLearning**
+- 🌱 I’m currently learning **React,Resonsive Designe**
 
 - 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)
 
