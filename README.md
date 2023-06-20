@@ -26,6 +26,8 @@ interest in Machine Learning Algorithm and Devops Tools,so i am very familer wit
                             i have knowledge in sklearn,pandas,numpy,Tensorflow <br>.
 </p>
 [![princekumarg's GitHub | Stats](https://stats.quine.sh/princekumarg/github?theme=dark)](https://quine.sh)
+[![princekumarg's GitHub | Languages Over Time](https://stats.quine.sh/princekumarg/languages-over-time?theme=dark)](https://quine.sh)
+[![princekumarg's GitHub | Topics Over Time](https://stats.quine.sh/princekumarg/topics-over-time?theme=dark)](https://quine.sh)
 <h3 align="left">CODING PROFILE:</h3>
 <a href="https://codepen.io/vlsihwdj-the-reactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="djsbvuw" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/princekumarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prince kumar" height="30" width="40" /></a>
