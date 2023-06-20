@@ -50,6 +50,7 @@ interest in Machine Learning Algorithm and Devops Tools,so i am very familer wit
 
 <p><img align="center" &th src="https://github-readme-streak-stats.herokuapp.com/?user=princekumarg&theme=dark" alt="princekumarg" /></p>
 <h1>Github Status</h1>
+<p><img align="center" &th src="https://stats.quine.sh/princekumarg/github?theme=dark" alt="princekumarg" /></p>
 [![princekumarg's GitHub | Stats](https://stats.quine.sh/princekumarg/github?theme=dark)](https://quine.sh)
 <h1>TOP Languages</h1>
 [![princekumarg's GitHub | Languages Over Time](https://stats.quine.sh/princekumarg/languages-over-time?theme=dark)](https://quine.sh)
