@@ -25,11 +25,6 @@
 interest in Machine Learning Algorithm and Devops Tools,so i am very familer with Git&Github,Docker&Dockerhub,Kubernetes,Jenkins and for Machine Learning
                             i have knowledge in sklearn,pandas,numpy,Tensorflow <br>.
 </p>
-<div>
-  [![princekumarg's GitHub | Stats](https://stats.quine.sh/princekumarg/github?theme=dark)](https://quine.sh)
-  [![princekumarg's GitHub | Languages Over Time](https://stats.quine.sh/princekumarg/languages-over-time?theme=dark)](https://quine.sh)
-  [![princekumarg's GitHub | Topics Over Time](https://stats.quine.sh/princekumarg/topics-over-time?theme=dark)](https://quine.sh)
-</div>
 <h3 align="left">CODING PROFILE:</h3>
 <a href="https://codepen.io/vlsihwdj-the-reactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="djsbvuw" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/princekumarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prince kumar" height="30" width="40" /></a>
@@ -54,3 +49,9 @@ interest in Machine Learning Algorithm and Devops Tools,so i am very familer wit
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=princekumarg&show_icons=true&theme=dark&locale=en" alt="princekumarg" /></p>
 
 <p><img align="center" &th src="https://github-readme-streak-stats.herokuapp.com/?user=princekumarg&theme=dark" alt="princekumarg" /></p>
+<h1>Github Status</h1>
+[![princekumarg's GitHub | Stats](https://stats.quine.sh/princekumarg/github?theme=dark)](https://quine.sh)
+<h1>TOP Languages</h1>
+[![princekumarg's GitHub | Languages Over Time](https://stats.quine.sh/princekumarg/languages-over-time?theme=dark)](https://quine.sh)
+<h1>Topics</h1>
+[![princekumarg's GitHub | Topics Over Time](https://stats.quine.sh/princekumarg/topics-over-time?theme=dark)](https://quine.sh)
