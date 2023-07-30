@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)
 
-- 📝 I regularly write articles on [kaggle](https://www.kaggle.com/princekumarg)
+- 📝 I regularly write articles on [kaggle](https://www.kaggle.com/princekumarg)[Medium](https://medium.com/@agarwal8789)
 
 - 💬 Ask me about **Problem solving**
 
