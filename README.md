@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Resonsive Designe**
 
-- 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/)
+- 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/) [Render](https://dashboard.render.com/)
 
 - 📝 I regularly write articles on [kaggle](https://www.kaggle.com/princekumarg)[Medium](https://medium.com/@agarwal8789)
 
