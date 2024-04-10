@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Prince2182002_" target="blank"><img src="https://img.shields.io/twitter/follow/Prince?logo=twitter&style=for-the-badge" alt="Prince" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce,Netlify**
+- 🔭 I’m currently working on **videotube working,system design**
 
 - 🌱 I’m currently learning **React,Resonsive Designe**
 
