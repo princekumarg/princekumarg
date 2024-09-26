@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web3 Technologies,system design**
 
-- 🌱 I’m currently learning **React,Resonsive Designe**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [Stremlite](https://princekumarg-multiple-disease-prediction-app1-4366nx.streamlit.app/) [Render](https://dashboard.render.com/)
 
